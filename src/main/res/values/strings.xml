@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">SHAKSHYA</string>
+    <string name="about_us">About Us</string>
+    <string name="home">Home</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="enter_description">Enter Description</string>
+    <string name="enter_link">Or Enter Link</string>
+    <string name="check">Check</string>
+    <string name="about_us_text"><p>Rumors spread faster than fire, that can burn down peaceful society to ashes. In today\'s digital world, Fake news is spreading with thundering speed on social media like Twitter, Instagram or by some websites.</p> <p>Spreading of fake news have possibility of initiating riots or bringing chaos in society. Our project aims at curbing possibility of riots spread by sharing of fake news.</p> <p>\"Precaution is better than cure\", so our project <b>\"SHAKSHYA\"</b> detects fake news that can fire unrest in society and can alarm.</p></string>
+    <string name="learn_more">Learn More</string>
+    <string name="our_team">Our Team</string>
+    <string name="contact_us">Contact Us</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="yuvraj_singh">Yuvraj Singh</string>
+    <string name="app_developer">App Developer</string>
+    <string name="himanshu_gupta">Himanshu Gupta</string>
+    <string name="web_developer">Web Developer</string>
+    <string name="shubham_varshney">Shubham Varshney</string>
+    <string name="ml_ai_developer">ML/AI Developer</string>
+    <string name="sushil_kumar">Sushil Kumar</string>
+    <string name="lead">Project Lead</string>
+    <string name="contact_text">For any queries related to our project, email us at</string>
+    <string name="email">detectorshakshya@gmail.com</string>
+</resources>

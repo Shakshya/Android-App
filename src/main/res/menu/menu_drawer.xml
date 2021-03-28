@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:title="@string/dashboard"
+            android:id="@+id/dashboard"
+            android:icon="@drawable/ic_home"/>
+        <item
+            android:title="@string/about_us"
+            android:id="@+id/about_app"
+            android:icon="@drawable/ic_about_app"/>
+        <item
+            android:title="@string/our_team"
+            android:id="@+id/team"
+            android:icon="@drawable/ic_team"/>
+        <item
+            android:title="@string/contact_us"
+            android:id="@+id/contact"
+            android:icon="@drawable/ic_contact"/>
+    </group>
+</menu>
